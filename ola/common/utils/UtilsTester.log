@@ -1,0 +1,8 @@
+.common/utils/ActionQueue.cpp:59: Action queue already finished!
+.common/utils/ActionQueue.cpp:59: Action queue already finished!
+.............................common/utils/DmxBuffer.cpp:241: Attempting to set channel 30 when length is 20
+common/utils/DmxBuffer.cpp:241: Attempting to set channel 200 when length is 20
+.............................................
+
+OK (76)
+PASS common/utils/UtilsTester (exit status: 0)

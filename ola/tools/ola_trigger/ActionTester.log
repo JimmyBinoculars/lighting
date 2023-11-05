@@ -1,0 +1,28 @@
+.tools/ola_trigger/Action.cpp:51: Setting one to "foo"
+tools/ola_trigger/Action.cpp:51: Setting one to "bar"
+.tools/ola_trigger/Action.cpp:51: Setting var1 to "1 = 100"
+...........tools/ola_trigger/Action.cpp:416: Interval [10, 20] overlaps [10, 20]
+tools/ola_trigger/Action.cpp:416: Interval [8, 10] overlaps [10, 20]
+tools/ola_trigger/Action.cpp:416: Interval 10 overlaps [10, 20]
+tools/ola_trigger/Action.cpp:416: Interval [10, 11] overlaps [10, 20]
+tools/ola_trigger/Action.cpp:416: Interval [10, 25] overlaps [10, 20]
+tools/ola_trigger/Action.cpp:416: Interval [15, 25] overlaps [10, 20]
+tools/ola_trigger/Action.cpp:416: Interval [19, 20] overlaps [10, 20]
+tools/ola_trigger/Action.cpp:416: Interval 20 overlaps [10, 20]
+tools/ola_trigger/Action.cpp:416: Interval [20, 25] overlaps [10, 20]
+tools/ola_trigger/Action.cpp:416: Interval [29, 30] overlaps [30, 35]
+tools/ola_trigger/Action.cpp:416: Interval 30 overlaps [30, 35]
+tools/ola_trigger/Action.cpp:416: Interval [30, 35] overlaps [30, 35]
+tools/ola_trigger/Action.cpp:416: Interval [34, 35] overlaps [30, 35]
+tools/ola_trigger/Action.cpp:416: Interval [34, 36] overlaps [30, 35]
+tools/ola_trigger/Action.cpp:416: Interval [29, 30] overlaps [30, 35]
+tools/ola_trigger/Action.cpp:416: Interval 30 overlaps [30, 35]
+tools/ola_trigger/Action.cpp:416: Interval [30, 35] overlaps [30, 35]
+tools/ola_trigger/Action.cpp:416: Interval [34, 35] overlaps [30, 35]
+tools/ola_trigger/Action.cpp:416: Interval [34, 36] overlaps [30, 35]
+........tools/ola_trigger/VariableInterpolator.cpp:71: Unknown variable one
+tools/ola_trigger/VariableInterpolator.cpp:71: Unknown variable 
+
+
+OK (21)
+PASS tools/ola_trigger/ActionTester (exit status: 0)

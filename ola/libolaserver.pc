@@ -1,0 +1,11 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libolaserver
+Version: 0.10.9
+Description: Open Lighting Architecture Server
+Requires: protobuf
+Libs: -L${libdir} -L${libdir}/olad -lola -lolacommon -lolaserver  -lolaartnet -loladummy -lolae131 -lolaespnet -lolaftdidmx -lolagpio -lolakarate -lolakinet -lolamilinst -lolananoleaf -lolaopendmx -lolaopenpixelcontrol -lolaosc -lolapathport -lolarenard -lolasandnet -lolashownet -lolaspi -lolaspidmx -lolastageprofi -lolauartdmx -lolausbdmx -lolausbpro
+Cflags: -I${includedir}

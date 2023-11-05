@@ -1,0 +1,18 @@
+.olad/plugin_api/Device.cpp:168: Device: orphaned device missing owner
+olad/plugin_api/DeviceManager.cpp:81: Device: orphaned device is missing UniqueId
+olad/plugin_api/DeviceManager.cpp:105: Installed device: test device 1:2-test device 1
+olad/plugin_api/DeviceManager.cpp:91: Device 2-test device 1 is already registered
+olad/plugin_api/DeviceManager.cpp:105: Installed device: test device 2:2-test device 2
+olad/plugin_api/Device.cpp:168: Device: orphaned device missing owner
+olad/plugin_api/DeviceManager.cpp:130: Device 2-test device 1not found
+olad/plugin_api/DeviceManager.cpp:105: Installed device: test device 1:2-test device 1
+.olad/plugin_api/DeviceManager.cpp:105: Installed device: test-device-1:2-test-device-1
+olad/plugin_api/PortManager.cpp:119: Patched 2-test-device-1-I-1 to universe 1
+olad/plugin_api/PortManager.cpp:119: Patched 2-test-device-1-O-1 to universe 3
+.olad/plugin_api/DeviceManager.cpp:105: Installed device: test_device_1:2-test_device_1
+olad/plugin_api/PortManager.cpp:70: Priority 210 is greater than the max priority (200)
+.olad/plugin_api/Device.cpp:168: Device: test missing owner
+
+
+OK (4)
+PASS olad/plugin_api/DeviceTester (exit status: 0)

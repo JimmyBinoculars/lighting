@@ -1,0 +1,22 @@
+..olad/plugin_api/Universe.cpp:338: Added sink client, 0 to universe 0
+olad/plugin_api/Universe.cpp:338: Added sink client, 0 to universe 99
+olad/plugin_api/Universe.cpp:360: Sink client 0 has been removed from uni 0
+olad/plugin_api/Universe.cpp:360: Sink client 0 has been removed from uni 99
+.olad/plugin_api/Universe.cpp:286: Added source client, 0x7fff99fb2aa0 to universe 0
+olad/plugin_api/Universe.cpp:286: Added source client, 0x7fff99fb2af0 to universe 0
+...olad/PluginManager.cpp:73: Skipping 4 because it was disabled
+olad/PluginManager.cpp:195: Trying to start 2
+olad/PluginManager.cpp:200: Started 2
+.olad/PluginManager.cpp:195: Trying to start 1
+olad/PluginManager.cpp:200: Started 1
+olad/PluginManager.cpp:188: Not enabling 2 because it conflicts with 1 which is already running
+olad/PluginManager.cpp:195: Trying to start 3
+olad/PluginManager.cpp:200: Started 3
+olad/PluginManager.cpp:188: Not enabling 7 because it conflicts with 1 which is already running
+olad/PluginManager.cpp:188: Not enabling 7 because it conflicts with 1 which is already running
+olad/PluginManager.cpp:195: Trying to start 7
+olad/PluginManager.cpp:200: Started 7
+
+
+OK (7)
+PASS olad/OlaTester (exit status: 0)

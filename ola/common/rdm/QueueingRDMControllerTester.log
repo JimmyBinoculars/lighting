@@ -1,0 +1,6 @@
+...common/rdm/RDMCommand.cpp:535: Source UIDs don't match, got 0003:00000004 and 0001:00000002
+..common/rdm/QueueingRDMController.cpp:99: RDM Queue is full, dropping request
+....
+
+OK (9)
+PASS common/rdm/QueueingRDMControllerTester (exit status: 0)

@@ -1,0 +1,16 @@
+.plugins/usbpro/DmxterWidget.cpp:223: added 707a:ffffff00
+plugins/usbpro/DmxterWidget.cpp:223: added 5252:12345678
+plugins/usbpro/DmxterWidget.cpp:223: added 707a:ffffff00
+plugins/usbpro/DmxterWidget.cpp:223: added 5252:12345678
+...plugins/usbpro/DmxterWidget.cpp:339: Request timed out
+.plugins/usbpro/DmxterWidget.cpp:339: Request timed out
+.plugins/usbpro/DmxterWidget.cpp:256: Invalid RDM response from the widget
+plugins/usbpro/DmxterWidget.cpp:263: Unknown version # in widget response: 1
+.plugins/usbpro/DmxterWidget.cpp:413: Invalid shutdown message, length was 1
+plugins/usbpro/DmxterWidget.cpp:415: Received shutdown message from the Dmxter
+common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x55806375e808
+common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x558063762780
+
+
+OK (7)
+PASS plugins/usbpro/DmxterWidgetTester (exit status: 0)

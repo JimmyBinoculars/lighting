@@ -1,9 +1,0 @@
-.common/io/SelectPoller.cpp:139: AddReadDescriptor called with invalid descriptor
-common/io/SelectPoller.cpp:183: AddWriteDescriptor called with invalid descriptor
-common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x7fff768d02a0
-common/io/SelectServer.cpp:207: Removing a closed descriptor
-................common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
-
-
-OK (17)
-PASS common/io/SelectServerTester (exit status: 0)

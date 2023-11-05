@@ -1,9 +1,0 @@
-.libs/acn/E133Inflator.cpp:66: Missing E1.33 Header data
-.libs/acn/BaseInflator.cpp:277: In BaseInflator::HandlePDUData, someone forgot to add a handler, vector id 3
-.libs/acn/PDU.cpp:56: PDU Pack: buffer too small, required 77, got 76
-../include/ola/io/MemoryBlockPool.h:50: new block allocated at @0x55d03e2bc0b0
-../include/ola/io/MemoryBlockPool.h:50: new block allocated at @0x55d03e2bc0b0
-
-
-OK (5)
-PASS libs/acn/E133Tester (exit status: 0)

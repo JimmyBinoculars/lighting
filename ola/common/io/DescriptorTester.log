@@ -1,8 +1,0 @@
-..common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x7ffe5a176dc0
-.common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x5558c9d0f370
-.common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x7ffe5a176d30
-.common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x5558c9d0f670
-
-
-OK (5)
-PASS common/io/DescriptorTester (exit status: 0)

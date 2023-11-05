@@ -1,7 +1,0 @@
-common/base/libolacommon_la-SysExits.lo: common/base/SysExits.cpp \
- /usr/include/stdc-predef.h config.h /usr/include/sysexits.h \
- include/ola/base/SysExits.h
-/usr/include/stdc-predef.h:
-config.h:
-/usr/include/sysexits.h:
-include/ola/base/SysExits.h:

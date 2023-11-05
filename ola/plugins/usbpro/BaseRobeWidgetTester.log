@@ -1,7 +1,0 @@
-..plugins/usbpro/BaseRobeWidget.cpp:164: Mismatched header crc: ab != 0
-plugins/usbpro/BaseRobeWidget.cpp:207: Mismatched data crc: 8e != 0
-.common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x5566509e2840
-
-
-OK (3)
-PASS plugins/usbpro/BaseRobeWidgetTester (exit status: 0)

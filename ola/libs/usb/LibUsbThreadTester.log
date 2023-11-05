@@ -1,9 +1,0 @@
-..libs/usb/LibUsbThread.cpp:50: -- Starting libusb thread
-common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
-libs/usb/LibUsbThread.cpp:35: ----libusb event thread is running
-libs/usb/LibUsbThread.cpp:55: -- Stopping libusb thread
-libs/usb/LibUsbThread.cpp:45: ----libusb thread exiting
-
-
-OK (2)
-PASS libs/usb/LibUsbThreadTester (exit status: 0)

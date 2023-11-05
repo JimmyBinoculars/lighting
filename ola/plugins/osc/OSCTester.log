@@ -1,5 +1,0 @@
-...plugins/osc/OSCNode.cpp:414: Attempt to register a second callback for /dmx/universe/10
-
-
-OK (3)
-PASS plugins/osc/OSCTester (exit status: 0)

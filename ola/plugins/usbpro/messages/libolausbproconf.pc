@@ -1,9 +1,0 @@
-prefix=/usr/local
-exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
-includedir=${prefix}/include
-
-Name: libolausbproconf
-Version: 0.10.9
-Description: Open Lighting Architecture - UsbPro Config Messages
-Libs: -lprotobuf

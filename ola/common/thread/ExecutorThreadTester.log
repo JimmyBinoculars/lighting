@@ -1,5 +1,0 @@
-.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
-
-
-OK (1)
-PASS common/thread/ExecutorThreadTester (exit status: 0)

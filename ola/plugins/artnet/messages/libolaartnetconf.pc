@@ -1,0 +1,9 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libolaartnetconf
+Version: 0.10.9
+Description: Open Lighting Architecture - Art-Net Config Messages
+Libs: -lprotobuf

@@ -1,0 +1,51 @@
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x5593c9f81110
+plugins/usbpro/UsbProWidgetDetector.cpp:537: Detected USB Device: ESTA Id: 0x7a70 (Open Lighting), device Id: 0x0001 (Unittest Device), serial: 0x12345678, f/w version: N/A
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x7f6d5c0017f0
+plugins/usbpro/UsbProWidgetDetector.cpp:537: Detected USB Device: ESTA Id: 0x6864 (JESE), device Id: 0x0002 (RDM-TRI), serial: 0x12345678, f/w version: N/A
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x7f6d5c000cd0
+plugins/usbpro/UsbProWidgetDetector.cpp:537: Detected USB Device: ESTA Id: 0x4744 (Goddard Design), device Id: 0x444d (DMXter4), serial: 0x12345678, f/w version: N/A
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x7f6d5c001bb0
+plugins/usbpro/UsbProWidgetDetector.cpp:537: Detected USB Device: ESTA Id: 0x0000, device Id: 0x0000, serial: 0x12345678, f/w version: 1.4
+plugins/usbpro/WidgetDetectorThread.cpp:314: Defaulting to a Usb Pro device
+plugins/usbpro/WidgetDetectorThread.cpp:330: USB Pro Firmware >= 2.4 is required for RDM support, this widget is running 1.4
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x7f6d5c001b10
+plugins/usbpro/UsbProWidgetDetector.cpp:537: Detected USB Device: ESTA Id: 0x0000, device Id: 0x0000, serial: 0x12345678, f/w version: 1.4
+plugins/usbpro/WidgetDetectorThread.cpp:314: Defaulting to a Usb Pro device
+plugins/usbpro/WidgetDetectorThread.cpp:316: Found and unlocked an Enttec USB Pro Mk II
+plugins/usbpro/WidgetDetectorThread.cpp:330: USB Pro Firmware >= 2.4 is required for RDM support, this widget is running 1.4
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x7f6d5c004160
+plugins/usbpro/UsbProWidgetDetector.cpp:537: Detected USB Device: ESTA Id: 0x0000, device Id: 0x0000, serial: 0x12345678, f/w version: 1.4
+plugins/usbpro/WidgetDetectorThread.cpp:314: Defaulting to a Usb Pro device
+plugins/usbpro/WidgetDetectorThread.cpp:316: Found and unlocked an Enttec USB Pro Mk II
+plugins/usbpro/WidgetDetectorThread.cpp:330: USB Pro Firmware >= 2.4 is required for RDM support, this widget is running 1.4
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x7f6d5c0030d0
+plugins/usbpro/UsbProWidgetDetector.cpp:323: USB Widget didn't respond to messages, esta id 0, device id 0
+plugins/usbpro/UsbProWidgetDetector.cpp:326: Is device in USB Controller mode if it's a Goddard?
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 1 for 0x7f6d5c0030d0
+plugins/usbpro/RobeWidgetDetector.cpp:203: Detected Robe Device, UID : 5253:0200000a, Hardware version: 0x1, software version: 0xb, eeprom version 0x3
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x7f6d5c002570
+plugins/usbpro/UsbProWidgetDetector.cpp:537: Detected USB Device: ESTA Id: 0x6a6b (DMXking.com), device Id: 0x0002 (ultraDMX Pro), serial: 0x12345678, f/w version: N/A
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x7f6d5c0011e0
+plugins/usbpro/UsbProWidgetDetector.cpp:323: USB Widget didn't respond to messages, esta id 0, device id 0
+plugins/usbpro/UsbProWidgetDetector.cpp:326: Is device in USB Controller mode if it's a Goddard?
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 1 for 0x7f6d5c0011e0
+plugins/usbpro/WidgetDetectorThread.cpp:386: no more detectors to try for  0x7f6d5c0011e0
+plugins/usbpro/WidgetDetectorThreadTest.cpp:137: Timeout triggered
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+plugins/usbpro/WidgetDetectorThread.cpp:389: trying stage 0 for 0x5593c9f89140
+common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x5593c9f89140
+plugins/usbpro/WidgetDetectorThreadTest.cpp:137: Timeout triggered
+common/io/SelectServer.cpp:186: Removing an invalid file descriptor: 0x5593c9f895b0
+
+
+OK (10)
+PASS plugins/usbpro/WidgetDetectorThreadTester (exit status: 0)

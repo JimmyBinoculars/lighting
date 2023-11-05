@@ -1,0 +1,12 @@
+.......[libprotobuf ERROR google/protobuf/text_format.cc:313] Error parsing text-format ola.rdm.pid.PidStore: Message missing required fields: version
+..common/rdm/PidStoreLoader.cpp:308: Using overrides.proto for SERIAL_NUMBER( 0x00008000)
+.common/rdm/PidStoreLoader.cpp:64: Missing ./common/rdm/testdata/missing_file_pids.proto: No such file or directory
+.common/rdm/PidStoreLoader.cpp:250: Manufacturer id 31344(Open Lighting) listed more than once in the PIDs file
+.common/rdm/PidStoreLoader.cpp:285: PID 16 exists multiple times in the pid file
+.common/rdm/PidStoreLoader.cpp:292: PID PROXIED_DEVICES exists multiple times in the pid file
+.common/rdm/PidStoreLoader.cpp:300: ESTA PID PROXIED_DEVICES (32769) is outside acceptable range
+.common/rdm/PidStoreLoader.cpp:418: Invalid frame format
+
+
+OK (15)
+PASS common/rdm/PidStoreTester (exit status: 0)

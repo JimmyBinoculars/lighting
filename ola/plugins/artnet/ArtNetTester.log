@@ -1,0 +1,26 @@
+.plugins/artnet/ArtNetNode.cpp:1638: Port index out of bounds: 4 >= 4
+.plugins/artnet/ArtNetNode.cpp:1638: Port index out of bounds: 4 >= 4
+.plugins/artnet/ArtNetNode.cpp:1648: Port index out of bounds: 4 >= 4
+plugins/artnet/ArtNetNode.cpp:1648: Port index out of bounds: 5 >= 4
+plugins/artnet/ArtNetNode.cpp:1648: Port index out of bounds: 6 >= 4
+plugins/artnet/ArtNetNode.cpp:1648: Port index out of bounds: 7 >= 4
+.plugins/artnet/ArtNetNode.cpp:1603: Port index out of bounds: 4 >= 4
+plugins/artnet/ArtNetNode.cpp:1631: Attempt to send ArtDMX on an inactive port
+......plugins/artnet/ArtNetNode.cpp:1542: Entered merge mode for universe 35
+plugins/artnet/ArtNetNode.cpp:1536: Max merge sources reached, ignoring
+.plugins/artnet/ArtNetNode.cpp:1542: Entered merge mode for universe 35
+.plugins/artnet/ArtNetNode.cpp:1786: Art-Net RDM discovery complete
+plugins/artnet/ArtNetNode.cpp:1786: Art-Net RDM discovery complete
+plugins/artnet/ArtNetNode.cpp:1786: Art-Net RDM discovery complete
+plugins/artnet/ArtNetNode.cpp:1855: Port index out of bounds: 4 >= 4
+.plugins/artnet/ArtNetNode.cpp:1786: Art-Net RDM discovery complete
+plugins/artnet/ArtNetNode.cpp:1855: Port index out of bounds: 4 >= 4
+.....plugins/artnet/ArtNetNode.cpp:1471: RDM Request timed out.
+.plugins/artnet/ArtNetNode.cpp:1412: IP address of RDM response didn't match
+plugins/artnet/ArtNetNode.cpp:1471: RDM Request timed out.
+.plugins/artnet/ArtNetNode.cpp:1371: Got response from/to unexpected UID: req 0001:00000002 -> 7a70:00000000, res 7a70:00000001 -> 0001:00000002
+plugins/artnet/ArtNetNode.cpp:1471: RDM Request timed out.
+.
+
+OK (21)
+PASS plugins/artnet/ArtNetTester (exit status: 0)

@@ -1,0 +1,5 @@
+.olad/plugin_api/Client.cpp:50: client_stub is null
+.
+
+OK (2)
+PASS olad/plugin_api/ClientTester (exit status: 0)

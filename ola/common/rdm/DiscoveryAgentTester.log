@@ -1,0 +1,2109 @@
+.common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 0, state: 1
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 0, state: 1
+.common/rdm/DiscoveryAgentTest.cpp:169: starting discovery with one responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 0001:0000000a
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 1, state: 1
+common/rdm/DiscoveryAgentTest.cpp:178: starting incremental discovery with one responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 1, state: 1
+.common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 1, state: 1
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 1, state: 1
+.common/rdm/DiscoveryAgentTest.cpp:226: starting discovery with two responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1806
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002003
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a70:00002003
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a70:00002003
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a70:00002003
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a70:00002003
+common/rdm/DiscoveryAgent.cpp:359: 7a70:00002003 didn't respond to MUTE, marking as bad
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a70:00002003
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a70:00002003, adding 7a70:00000000 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a70:00002003, adding 7a70:00002004 - 7a73:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00000000 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a70:00001001 , 7a70:00001002 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001002 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001002 - 7a70:00001802 , 7a70:00001803 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001803 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001803 - 7a70:00001c02 , 7a70:00001c03 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001c03 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001c03 - 7a70:00001e02 , 7a70:00001e03 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001e03 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001e03 - 7a70:00001f02 , 7a70:00001f03 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001f03 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001f03 - 7a70:00001f82 , 7a70:00001f83 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001f83 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001f83 - 7a70:00001fc2 , 7a70:00001fc3 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001fc3 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001fc3 - 7a70:00001fe2 , 7a70:00001fe3 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001fe3 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001fe3 - 7a70:00001ff2 , 7a70:00001ff3 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001ff3 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001ff3 - 7a70:00001ffa , 7a70:00001ffb - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001ffb - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001ffb - 7a70:00001ffe , 7a70:00001fff - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00001fff - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00001fff - 7a70:00002000 , 7a70:00002001 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a70:00002003 continues to respond
+common/rdm/DiscoveryAgent.cpp:411: Bad UID 7a70:00002003 not within range 7a70:00002001 - 7a70:00002002, assuming it's a phantom!
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00002001 - 7a70:00002001 , 7a70:00002002 - 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002001
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 3, state: 1
+common/rdm/DiscoveryAgentTest.cpp:242: starting incremental discovery with modified responder list
+common/rdm/DiscoveryAgent.cpp:167: Unable to mute 7a70:00002001, device has gone
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 8080:00103456
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 3, state: 1
+.common/rdm/DiscoveryAgentTest.cpp:269: starting discovery with obnoxious responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a74:00000000 - 7a75:ffffffff , 7a76:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:7fffffff , 7a77:80000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:3fffffff , 7a77:40000000 - 7a77:7fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:1fffffff , 7a77:20000000 - 7a77:3fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0fffffff , 7a77:10000000 - 7a77:1fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:07ffffff , 7a77:08000000 - 7a77:0fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:03ffffff , 7a77:04000000 - 7a77:07ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:01ffffff , 7a77:02000000 - 7a77:03ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00ffffff , 7a77:01000000 - 7a77:01ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:007fffff , 7a77:00800000 - 7a77:00ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:003fffff , 7a77:00400000 - 7a77:007fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:001fffff , 7a77:00200000 - 7a77:003fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:000fffff , 7a77:00100000 - 7a77:001fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0007ffff , 7a77:00080000 - 7a77:000fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0003ffff , 7a77:00040000 - 7a77:0007ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0001ffff , 7a77:00020000 - 7a77:0003ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0000ffff , 7a77:00010000 - 7a77:0001ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00007fff , 7a77:00008000 - 7a77:0000ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00003fff , 7a77:00004000 - 7a77:00007fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00001fff , 7a77:00002000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002fff , 7a77:00003000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00003030, adding 7a77:00003000 - 7a77:0000302f
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00003030, adding 7a77:00003031 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:000037ff , 7a77:00003800 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:000033ff , 7a77:00003400 - 7a77:000037ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:000031ff , 7a77:00003200 - 7a77:000033ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:000030ff , 7a77:00003100 - 7a77:000031ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:0000307f , 7a77:00003080 - 7a77:000030ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:0000303f , 7a77:00003040 - 7a77:0000307f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:0000301f , 7a77:00003020 - 7a77:0000303f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003020 - 7a77:0000302f , 7a77:00003030 - 7a77:0000303f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003030 - 7a77:00003037 , 7a77:00003038 - 7a77:0000303f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003030 - 7a77:00003033 , 7a77:00003034 - 7a77:00003037
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003030 - 7a77:00003031 , 7a77:00003032 - 7a77:00003033
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003030 - 7a77:00003030 , 7a77:00003031 - 7a77:00003031
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00002002, adding 7a77:00002000 - 7a77:00002001
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00002002, adding 7a77:00002003 - 7a77:00002fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000027ff , 7a77:00002800 - 7a77:00002fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000023ff , 7a77:00002400 - 7a77:000027ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000021ff , 7a77:00002200 - 7a77:000023ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000020ff , 7a77:00002100 - 7a77:000021ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000207f , 7a77:00002080 - 7a77:000020ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000203f , 7a77:00002040 - 7a77:0000207f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000201f , 7a77:00002020 - 7a77:0000203f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000200f , 7a77:00002010 - 7a77:0000201f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002007 , 7a77:00002008 - 7a77:0000200f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002003 , 7a77:00002004 - 7a77:00002007
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002001 , 7a77:00002002 - 7a77:00002003
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002002 - 7a77:00002002 , 7a77:00002003 - 7a77:00002003
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:443: Discovery tree is corrupted
+common/rdm/DiscoveryAgentTest.cpp:109: in discovery callback, size is 3, state: 0
+common/rdm/DiscoveryAgentTest.cpp:278: starting incremental discovery with modified responder list
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a74:00000000 - 7a75:ffffffff , 7a76:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:7fffffff , 7a77:80000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:3fffffff , 7a77:40000000 - 7a77:7fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:1fffffff , 7a77:20000000 - 7a77:3fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0fffffff , 7a77:10000000 - 7a77:1fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:07ffffff , 7a77:08000000 - 7a77:0fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:03ffffff , 7a77:04000000 - 7a77:07ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:01ffffff , 7a77:02000000 - 7a77:03ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00ffffff , 7a77:01000000 - 7a77:01ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:007fffff , 7a77:00800000 - 7a77:00ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:003fffff , 7a77:00400000 - 7a77:007fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:001fffff , 7a77:00200000 - 7a77:003fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:000fffff , 7a77:00100000 - 7a77:001fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0007ffff , 7a77:00080000 - 7a77:000fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0003ffff , 7a77:00040000 - 7a77:0007ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0001ffff , 7a77:00020000 - 7a77:0003ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0000ffff , 7a77:00010000 - 7a77:0001ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00007fff , 7a77:00008000 - 7a77:0000ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00003fff , 7a77:00004000 - 7a77:00007fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00001fff , 7a77:00002000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002fff , 7a77:00003000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00003030, adding 7a77:00003000 - 7a77:0000302f
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00003030, adding 7a77:00003031 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:000037ff , 7a77:00003800 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:000033ff , 7a77:00003400 - 7a77:000037ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:000031ff , 7a77:00003200 - 7a77:000033ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:000030ff , 7a77:00003100 - 7a77:000031ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:0000307f , 7a77:00003080 - 7a77:000030ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:0000303f , 7a77:00003040 - 7a77:0000307f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003000 - 7a77:0000301f , 7a77:00003020 - 7a77:0000303f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003020 - 7a77:0000302f , 7a77:00003030 - 7a77:0000303f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003030 - 7a77:00003037 , 7a77:00003038 - 7a77:0000303f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003030 - 7a77:00003033 , 7a77:00003034 - 7a77:00003037
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003030 - 7a77:00003031 , 7a77:00003032 - 7a77:00003033
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00003030 - 7a77:00003030 , 7a77:00003031 - 7a77:00003031
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00002002, adding 7a77:00002000 - 7a77:00002001
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00002002, adding 7a77:00002003 - 7a77:00002fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000027ff , 7a77:00002800 - 7a77:00002fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000023ff , 7a77:00002400 - 7a77:000027ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000021ff , 7a77:00002200 - 7a77:000023ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000020ff , 7a77:00002100 - 7a77:000021ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000207f , 7a77:00002080 - 7a77:000020ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000203f , 7a77:00002040 - 7a77:0000207f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000201f , 7a77:00002020 - 7a77:0000203f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000200f , 7a77:00002010 - 7a77:0000201f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002007 , 7a77:00002008 - 7a77:0000200f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002003 , 7a77:00002004 - 7a77:00002007
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002001 , 7a77:00002002 - 7a77:00002003
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002002 - 7a77:00002002 , 7a77:00002003 - 7a77:00002003
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:311: Previously muted responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:443: Discovery tree is corrupted
+common/rdm/DiscoveryAgentTest.cpp:109: in discovery callback, size is 3, state: 0
+.common/rdm/DiscoveryAgentTest.cpp:304: starting discovery with rambling responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 25
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 2, state: 1
+.common/rdm/DiscoveryAgentTest.cpp:352: starting discovery with BiPolarResponder responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a74:00000000 - 7a75:ffffffff , 7a76:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:443: Discovery tree is corrupted
+common/rdm/DiscoveryAgentTest.cpp:109: in discovery callback, size is 1, state: 0
+common/rdm/DiscoveryAgentTest.cpp:361: starting incremental discovery with modified responder list
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a74:00000000 - 7a75:ffffffff , 7a76:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:443: Discovery tree is corrupted
+common/rdm/DiscoveryAgentTest.cpp:109: in discovery callback, size is 1, state: 0
+.common/rdm/DiscoveryAgentTest.cpp:327: starting discovery with brief responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1807 != calculated checksum: 1805
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a74:00000000 - 7a75:ffffffff , 7a76:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:7fffffff , 7a77:80000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:3fffffff , 7a77:40000000 - 7a77:7fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:1fffffff , 7a77:20000000 - 7a77:3fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0fffffff , 7a77:10000000 - 7a77:1fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:07ffffff , 7a77:08000000 - 7a77:0fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:03ffffff , 7a77:04000000 - 7a77:07ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:01ffffff , 7a77:02000000 - 7a77:03ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00ffffff , 7a77:01000000 - 7a77:01ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:007fffff , 7a77:00800000 - 7a77:00ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:003fffff , 7a77:00400000 - 7a77:007fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:001fffff , 7a77:00200000 - 7a77:003fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:000fffff , 7a77:00100000 - 7a77:001fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0007ffff , 7a77:00080000 - 7a77:000fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0003ffff , 7a77:00040000 - 7a77:0007ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0001ffff , 7a77:00020000 - 7a77:0003ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0000ffff , 7a77:00010000 - 7a77:0001ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00007fff , 7a77:00008000 - 7a77:0000ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00003fff , 7a77:00004000 - 7a77:00007fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00001fff , 7a77:00002000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002fff , 7a77:00003000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000027ff , 7a77:00002800 - 7a77:00002fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000023ff , 7a77:00002400 - 7a77:000027ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000021ff , 7a77:00002200 - 7a77:000023ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:000020ff , 7a77:00002100 - 7a77:000021ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000207f , 7a77:00002080 - 7a77:000020ff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000203f , 7a77:00002040 - 7a77:0000207f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000201f , 7a77:00002020 - 7a77:0000203f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:0000200f , 7a77:00002010 - 7a77:0000201f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002007 , 7a77:00002008 - 7a77:0000200f
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002003 , 7a77:00002004 - 7a77:00002007
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002001 , 7a77:00002002 - 7a77:00002003
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002002 - 7a77:00002002 , 7a77:00002003 - 7a77:00002003
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 23
+common/rdm/DiscoveryAgent.cpp:255: Insufficient data remaining, was 15
+common/rdm/DiscoveryAgent.cpp:376: End of tree reached!!!
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:443: Discovery tree is corrupted
+common/rdm/DiscoveryAgentTest.cpp:109: in discovery callback, size is 1, state: 0
+.common/rdm/DiscoveryAgentTest.cpp:386: starting discovery with NonMutingResponder responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a74:00000000 - 7a75:ffffffff , 7a76:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:7fffffff , 7a77:80000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:3fffffff , 7a77:40000000 - 7a77:7fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:1fffffff , 7a77:20000000 - 7a77:3fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0fffffff , 7a77:10000000 - 7a77:1fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:07ffffff , 7a77:08000000 - 7a77:0fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:03ffffff , 7a77:04000000 - 7a77:07ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:01ffffff , 7a77:02000000 - 7a77:03ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00ffffff , 7a77:01000000 - 7a77:01ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:007fffff , 7a77:00800000 - 7a77:00ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:003fffff , 7a77:00400000 - 7a77:007fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:001fffff , 7a77:00200000 - 7a77:003fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:000fffff , 7a77:00100000 - 7a77:001fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0007ffff , 7a77:00080000 - 7a77:000fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0003ffff , 7a77:00040000 - 7a77:0007ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0001ffff , 7a77:00020000 - 7a77:0003ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0000ffff , 7a77:00010000 - 7a77:0001ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00007fff , 7a77:00008000 - 7a77:0000ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00003fff , 7a77:00004000 - 7a77:00007fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00001fff , 7a77:00002000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002fff , 7a77:00003000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:359: 7a77:00003030 didn't respond to MUTE, marking as bad
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00003030, adding 7a77:00003000 - 7a77:0000302f
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00003030, adding 7a77:00003031 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00003030, adding 7a77:00003000 - 7a77:0000302f
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00003030, adding 7a77:00003031 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a77:00003030 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00003030, adding 7a77:00003000 - 7a77:0000302f
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00003030, adding 7a77:00003031 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:359: 7a77:00002002 didn't respond to MUTE, marking as bad
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00002002, adding 7a77:00002000 - 7a77:00002001
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00002002, adding 7a77:00002003 - 7a77:00002fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00002002, adding 7a77:00002000 - 7a77:00002001
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00002002, adding 7a77:00002003 - 7a77:00002fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:324: Previously bad responder 7a77:00002002 continues to respond
+common/rdm/DiscoveryAgent.cpp:417: Bad UID, attempting split either side of: 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:423: Splitting either side of 7a77:00002002, adding 7a77:00002000 - 7a77:00002001
+common/rdm/DiscoveryAgent.cpp:428: Splitting either side of 7a77:00002002, adding 7a77:00002003 - 7a77:00002fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:443: Discovery tree is corrupted
+common/rdm/DiscoveryAgentTest.cpp:109: in discovery callback, size is 1, state: 0
+.common/rdm/DiscoveryAgentTest.cpp:418: starting discovery with flakey responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a74:00000000 - 7a75:ffffffff , 7a76:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:7fffffff , 7a77:80000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:3fffffff , 7a77:40000000 - 7a77:7fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:1fffffff , 7a77:20000000 - 7a77:3fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0fffffff , 7a77:10000000 - 7a77:1fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:07ffffff , 7a77:08000000 - 7a77:0fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:03ffffff , 7a77:04000000 - 7a77:07ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:01ffffff , 7a77:02000000 - 7a77:03ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00ffffff , 7a77:01000000 - 7a77:01ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:007fffff , 7a77:00800000 - 7a77:00ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:003fffff , 7a77:00400000 - 7a77:007fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:001fffff , 7a77:00200000 - 7a77:003fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:000fffff , 7a77:00100000 - 7a77:001fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0007ffff , 7a77:00080000 - 7a77:000fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0003ffff , 7a77:00040000 - 7a77:0007ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0001ffff , 7a77:00020000 - 7a77:0003ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0000ffff , 7a77:00010000 - 7a77:0001ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00007fff , 7a77:00008000 - 7a77:0000ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00003fff , 7a77:00004000 - 7a77:00007fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00001fff , 7a77:00002000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002fff , 7a77:00003000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 3, state: 1
+common/rdm/DiscoveryAgentTest.cpp:429: starting incremental discovery with flakey responder list
+common/rdm/DiscoveryAgent.cpp:167: Unable to mute 7a77:00002002, device has gone
+common/rdm/DiscoveryAgent.cpp:167: Unable to mute 7a77:00003030, device has gone
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 4000:00000000 - 5fff:ffffffff , 6000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 6000:00000000 - 6fff:ffffffff , 7000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7000:00000000 - 77ff:ffffffff , 7800:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 7bff:ffffffff , 7c00:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7800:00000000 - 79ff:ffffffff , 7a00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7aff:ffffffff , 7b00:00000000 - 7bff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a7f:ffffffff , 7a80:00000000 - 7aff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a00:00000000 - 7a3f:ffffffff , 7a40:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a40:00000000 - 7a5f:ffffffff , 7a60:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a60:00000000 - 7a6f:ffffffff , 7a70:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a77:ffffffff , 7a78:00000000 - 7a7f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a70:00000000 - 7a73:ffffffff , 7a74:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a74:00000000 - 7a75:ffffffff , 7a76:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a76:00000000 - 7a76:ffffffff , 7a77:00000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:7fffffff , 7a77:80000000 - 7a77:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:3fffffff , 7a77:40000000 - 7a77:7fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:1fffffff , 7a77:20000000 - 7a77:3fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0fffffff , 7a77:10000000 - 7a77:1fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:07ffffff , 7a77:08000000 - 7a77:0fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:03ffffff , 7a77:04000000 - 7a77:07ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:01ffffff , 7a77:02000000 - 7a77:03ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00ffffff , 7a77:01000000 - 7a77:01ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:007fffff , 7a77:00800000 - 7a77:00ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:003fffff , 7a77:00400000 - 7a77:007fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:001fffff , 7a77:00200000 - 7a77:003fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:000fffff , 7a77:00100000 - 7a77:001fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0007ffff , 7a77:00080000 - 7a77:000fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0003ffff , 7a77:00040000 - 7a77:0007ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0001ffff , 7a77:00020000 - 7a77:0003ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:0000ffff , 7a77:00010000 - 7a77:0001ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00007fff , 7a77:00008000 - 7a77:0000ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00003fff , 7a77:00004000 - 7a77:00007fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00000000 - 7a77:00001fff , 7a77:00002000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1871 != calculated checksum: 1869
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 7a77:00002000 - 7a77:00002fff , 7a77:00003000 - 7a77:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00003030
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:353: Muting 7a77:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 3, state: 1
+.common/rdm/DiscoveryAgentTest.cpp:474: starting discovery with Proxy responder
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1791
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1791
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 3fff:ffffffff , 4000:00000000 - 7fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1791
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 1fff:ffffffff , 2000:00000000 - 3fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1791
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 0fff:ffffffff , 1000:00000000 - 1fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1000:00000000 - 17ff:ffffffff , 1800:00000000 - 1fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1000:00000000 - 13ff:ffffffff , 1400:00000000 - 17ff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1000:00000000 - 11ff:ffffffff , 1200:00000000 - 13ff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1000:00000000 - 10ff:ffffffff , 1100:00000000 - 11ff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1000:00000000 - 107f:ffffffff , 1080:00000000 - 10ff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1000:00000000 - 103f:ffffffff , 1040:00000000 - 107f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1000:00000000 - 101f:ffffffff , 1020:00000000 - 103f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1000:00000000 - 100f:ffffffff , 1010:00000000 - 101f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1017:ffffffff , 1018:00000000 - 101f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1013:ffffffff , 1014:00000000 - 1017:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1011:ffffffff , 1012:00000000 - 1013:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:ffffffff , 1011:00000000 - 1011:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:7fffffff , 1010:80000000 - 1010:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:3fffffff , 1010:40000000 - 1010:7fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:1fffffff , 1010:20000000 - 1010:3fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:0fffffff , 1010:10000000 - 1010:1fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:07ffffff , 1010:08000000 - 1010:0fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:03ffffff , 1010:04000000 - 1010:07ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:01ffffff , 1010:02000000 - 1010:03ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:00ffffff , 1010:01000000 - 1010:01ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:007fffff , 1010:00800000 - 1010:00ffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:003fffff , 1010:00400000 - 1010:007fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:001fffff , 1010:00200000 - 1010:003fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:000fffff , 1010:00100000 - 1010:001fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:0007ffff , 1010:00080000 - 1010:000fffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:0003ffff , 1010:00040000 - 1010:0007ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:0001ffff , 1010:00020000 - 1010:0003ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:0000ffff , 1010:00010000 - 1010:0001ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:00007fff , 1010:00008000 - 1010:0000ffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:00003fff , 1010:00004000 - 1010:00007fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1788 != calculated checksum: 1774
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 1010:00000000 - 1010:00001fff , 1010:00002000 - 1010:00003fff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 1010:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 1010:00001999
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 1021:00005678
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 1020:00005678
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 07ff:ffffffff , 0800:00000000 - 0fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 03ff:ffffffff , 0400:00000000 - 07ff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 01ff:ffffffff , 0200:00000000 - 03ff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 00ff:ffffffff , 0100:00000000 - 01ff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 007f:ffffffff , 0080:00000000 - 00ff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 003f:ffffffff , 0040:00000000 - 007f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 001f:ffffffff , 0020:00000000 - 003f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 000f:ffffffff , 0010:00000000 - 001f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 0007:ffffffff , 0008:00000000 - 000f:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 0003:ffffffff , 0004:00000000 - 0007:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 0001:ffffffff , 0002:00000000 - 0003:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 0000:ffffffff , 0001:00000000 - 0001:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0001:00000000 - 0001:7fffffff , 0001:80000000 - 0001:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0001:00000000 - 0001:3fffffff , 0001:40000000 - 0001:7fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0001:00000000 - 0001:1fffffff , 0001:20000000 - 0001:3fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 2044 != calculated checksum: 1548
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0001:00000000 - 0001:0fffffff , 0001:10000000 - 0001:1fffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 0001:10000001
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 0001:00000001
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a71:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 7a70:00002002
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 8081:00001234
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1881 != calculated checksum: 2013
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 0000:00000000 - 7fff:ffffffff , 8000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1881 != calculated checksum: 2013
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 8000:00000000 - bfff:ffffffff , c000:00000000 - ffff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1881 != calculated checksum: 2013
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 8000:00000000 - 9fff:ffffffff , a000:00000000 - bfff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:291: Recovered checksum: 1881 != calculated checksum: 2013
+common/rdm/DiscoveryAgent.cpp:386: Collision, splitting into: 8000:00000000 - 8fff:ffffffff , 9000:00000000 - 9fff:ffffffff
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 9001:00005678
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 9000:00005678
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 24
+common/rdm/DiscoveryAgent.cpp:337: Muting 8080:00001234
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgent.cpp:219: BranchComplete, got 0
+common/rdm/DiscoveryAgentTest.cpp:96: in discovery callback, size is 12, state: 1
+
+
+OK (11)
+PASS common/rdm/DiscoveryAgentTester (exit status: 0)

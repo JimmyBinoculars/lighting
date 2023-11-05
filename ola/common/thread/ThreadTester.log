@@ -1,0 +1,21 @@
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+.common/thread/Thread.cpp:200: Thread MockThread, policy SCHED_OTHER, priority 0
+common/thread/Thread.cpp:93: Attempt to start already running thread MockThread
+.common/thread/ThreadTest.cpp:149: Skipping testSchedulingOptions since RLIMIT_RTPRIO is 0
+.common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+
+
+OK (6)
+PASS common/thread/ThreadTester (exit status: 0)

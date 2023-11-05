@@ -1,0 +1,115 @@
+.F.olad/OlaDaemon.cpp:121: Using configs in /home/lochlan/.ola
+common/thread/Thread.cpp:200: Thread pref-saver, policy SCHED_OTHER, priority 0
+common/file/Util.cpp:134: Could not open /usr/local/share/ola/pids: No such file or directory
+common/rdm/PidStoreLoader.cpp:82: Failed to list files in /usr/local/share/ola/pids
+olad/OlaServer.cpp:173: No PID definitions loaded
+olad/OlaServer.cpp:194: Server UID is 7a70:1300a8c0
+olad/OlaServer.cpp:206: Server instance name is OLA Server
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-universe.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/AvahiDiscoveryAgent.cpp:201: Client state changed to AVAHI_CLIENT_S_RUNNING
+olad/OlaServer.cpp:481: Updated PID definitions.
+olad/OlaServer.cpp:489: PID store is at 0
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-artnet.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-dummy.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-e131.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-espnet.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-gpio.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-karate.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-kinet.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-milinst.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-nanoleaf.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-opendmx.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-openpixelcontrol.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-osc.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-renard.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-sandnet.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-shownet.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-spi.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-spidmx.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/PluginManager.cpp:73: Skipping SPI native DMX because it was disabled
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-stageprofi.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-usbserial.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-usbdmx.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-pathport.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-ftdidmx.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/PluginManager.cpp:73: Skipping FTDI USB DMX because it was disabled
+olad/plugin_api/Preferences.cpp:465: Missing /home/lochlan/.ola/ola-uartdmx.conf: No such file or directory - this isn't an error, we'll just use the defaults
+olad/PluginManager.cpp:73: Skipping UART native DMX because it was disabled
+olad/PluginManager.cpp:195: Trying to start Dummy
+olad/plugin_api/DeviceManager.cpp:105: Installed device: Dummy Device:1-1
+olad/PluginManager.cpp:200: Started Dummy
+olad/PluginManager.cpp:195: Trying to start ArtNet
+olad/plugin_api/DeviceManager.cpp:105: Installed device: Art-Net [192.168.0.19]:2-1
+olad/PluginManager.cpp:200: Started ArtNet
+olad/PluginManager.cpp:195: Trying to start ShowNet
+olad/plugin_api/DeviceManager.cpp:105: Installed device: ShowNet [192.168.0.19]:3-1
+olad/PluginManager.cpp:200: Started ShowNet
+olad/PluginManager.cpp:195: Trying to start ESP Net
+olad/plugin_api/DeviceManager.cpp:105: Installed device: ESP Net [192.168.0.19]:4-1
+olad/PluginManager.cpp:200: Started ESP Net
+olad/PluginManager.cpp:195: Trying to start Serial USB
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+olad/PluginManager.cpp:200: Started Serial USB
+olad/PluginManager.cpp:195: Trying to start Enttec Open DMX
+common/io/IOUtils.cpp:39: open(/dev/dmx0): No such file or directory
+plugins/opendmx/OpenDmxPlugin.cpp:81: Could not open /dev/dmx0 No such file or directory
+olad/PluginManager.cpp:200: Started Enttec Open DMX
+olad/PluginManager.cpp:195: Trying to start SandNet
+olad/plugin_api/DeviceManager.cpp:105: Installed device: SandNet [192.168.0.19]:7-1
+olad/PluginManager.cpp:200: Started SandNet
+olad/PluginManager.cpp:195: Trying to start StageProfi
+olad/PluginManager.cpp:200: Started StageProfi
+olad/PluginManager.cpp:195: Trying to start Pathport
+olad/plugin_api/DeviceManager.cpp:105: Installed device: Pathport [192.168.0.19]:9-1
+olad/PluginManager.cpp:200: Started Pathport
+olad/PluginManager.cpp:195: Trying to start E1.31 (sACN)
+olad/plugin_api/DeviceManager.cpp:105: Installed device: E1.31 (DMX over ACN) [192.168.0.19]:11-1
+olad/PluginManager.cpp:200: Started E1.31 (sACN)
+olad/PluginManager.cpp:195: Trying to start USB
+libs/usb/HotplugAgent.cpp:172: USB hotplug event: 4:1 @0x7faef0012760 [add]
+libs/usb/HotplugAgent.cpp:172: USB hotplug event: 3:3 @0x7faef0012580 [add]
+libs/usb/HotplugAgent.cpp:172: USB hotplug event: 3:2 @0x7faef002dab0 [add]
+libs/usb/HotplugAgent.cpp:172: USB hotplug event: 3:1 @0x7faef0012690 [add]
+libs/usb/HotplugAgent.cpp:172: USB hotplug event: 2:1 @0x7faef00122c0 [add]
+libs/usb/HotplugAgent.cpp:172: USB hotplug event: 1:1 @0x7faef002da00 [add]
+libs/usb/LibUsbThread.cpp:50: -- Starting libusb thread
+common/thread/Thread.cpp:200: Thread , policy SCHED_OTHER, priority 0
+libs/usb/LibUsbThread.cpp:35: ----libusb event thread is running
+olad/PluginManager.cpp:200: Started USB
+olad/PluginManager.cpp:195: Trying to start OSC
+plugins/osc/OSCNode.cpp:77: OSC Error. Code 9904, cannot find free port, 
+olad/PluginManager.cpp:198: Failed to start OSC
+olad/PluginManager.cpp:195: Trying to start SPI
+olad/PluginManager.cpp:200: Started SPI
+olad/PluginManager.cpp:195: Trying to start KiNET
+olad/PluginManager.cpp:200: Started KiNET
+olad/PluginManager.cpp:195: Trying to start KarateLight
+common/io/IOUtils.cpp:39: open(/dev/kldmx0): No such file or directory
+plugins/karate/KaratePlugin.cpp:80: Could not open /dev/kldmx0 No such file or directory
+olad/PluginManager.cpp:200: Started KarateLight
+olad/PluginManager.cpp:195: Trying to start Milford Instruments
+olad/PluginManager.cpp:200: Started Milford Instruments
+olad/PluginManager.cpp:195: Trying to start Renard
+olad/PluginManager.cpp:200: Started Renard
+olad/PluginManager.cpp:195: Trying to start Open Pixel Control
+olad/PluginManager.cpp:200: Started Open Pixel Control
+olad/PluginManager.cpp:195: Trying to start GPIO
+olad/PluginManager.cpp:200: Started GPIO
+olad/PluginManager.cpp:195: Trying to start Nanoleaf
+olad/PluginManager.cpp:200: Started Nanoleaf
+libs/usb/LibUsbThread.cpp:55: -- Stopping libusb thread
+libs/usb/LibUsbThread.cpp:45: ----libusb thread exiting
+ola/StreamingClient.cpp:172: The RPC socket has been closed, this is more than likely due to a framing error, perhaps you're sending too fast?
+common/network/TCPSocket.cpp:158: connect(127.0.0.1:46011): Connection refused
+
+
+OlaClientWrapperTest.cpp:52:Assertion
+Test name: OlaClientWrapperTest::testNoAutoStartNoOlad
+assertion failed
+- Expression: !(ola_client.Setup())
+- Check for another instance of olad running
+
+Failures !!!
+Run: 2   Failure total: 1   Failures: 1   Errors: 0
+FAIL ola/OlaClientTester (exit status: 1)

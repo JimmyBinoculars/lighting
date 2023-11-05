@@ -1,0 +1,9 @@
+.plugins/usbpro/RobeWidgetDetector.cpp:203: Detected Robe Device, UID : 5253:0100000a, Hardware version: 0x1, software version: 0x14, eeprom version 0x3
+.plugins/usbpro/RobeWidgetDetector.cpp:190: This Robe widget isn't unlocked, please visit http://www.robe.cz/nc/support/search-for/DSU%20RUNIT/ to download the new firmware.
+.plugins/usbpro/RobeWidgetDetector.cpp:190: This Robe widget isn't unlocked, please visit http://www.robe.cz/nc/support/search-for/DSU%20RUNIT/ to download the new firmware.
+.plugins/usbpro/RobeWidgetDetector.cpp:203: Detected Robe Device, UID : 5253:0200000a, Hardware version: 0x1, software version: 0xb, eeprom version 0x3
+.plugins/usbpro/RobeWidgetDetector.cpp:190: This Robe widget isn't unlocked, please visit http://www.robe.cz/nc/support/search-for/DSU%20RUNIT/ to download the new firmware.
+.
+
+OK (6)
+PASS plugins/usbpro/RobeWidgetDetectorTester (exit status: 0)

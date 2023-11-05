@@ -1,0 +1,11 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libolae133common
+Version: 0.10.9
+Description: Open Lighting Architecture E1.33
+Requires:
+Libs: -L${libdir} -lolae133common
+Cflags: -I${includedir}

@@ -1,0 +1,9 @@
+.plugins/usbpro/UsbProWidgetDetector.cpp:537: Detected USB Device: ESTA Id: 0x7a70 (Open Lighting), device Id: 0x534e (Unittest Device), serial: 0x12345678, f/w version: 1.4
+.plugins/usbpro/UsbProWidgetDetector.cpp:537: Detected USB Device: ESTA Id: 0x0000, device Id: 0x0000, serial: 0x12345678, f/w version: N/A
+.plugins/usbpro/UsbProWidgetDetector.cpp:323: USB Widget didn't respond to messages, esta id 0, device id 0
+plugins/usbpro/UsbProWidgetDetector.cpp:326: Is device in USB Controller mode if it's a Goddard?
+.plugins/usbpro/UsbProWidgetDetector.cpp:509: Enttec sniffer found (2 packets), discarding
+
+
+OK (4)
+PASS plugins/usbpro/UsbProWidgetDetectorTester (exit status: 0)

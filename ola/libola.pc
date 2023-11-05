@@ -1,0 +1,11 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libola
+Version: 0.10.9
+Description: Open Lighting Architecture Client
+Requires: protobuf
+Libs: -L${libdir} -lola -lolacommon 
+Cflags: -I${includedir}

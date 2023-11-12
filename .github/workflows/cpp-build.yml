@@ -3,7 +3,7 @@ name: C++ Build with Dependencies
 on:
   push:
     branches:
-      - main  # Replace with your main branch name
+      - master  # Replace with your main branch name
 
 jobs:
   build:

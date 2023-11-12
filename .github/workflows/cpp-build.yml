@@ -16,7 +16,7 @@ jobs:
     - name: Set up C++ environment
       uses: actions/setup-cxx@v2
       with:
-        compiler: 'gcc'  # or 'g++' for C++
+        compiler: 'g++'  # or 'g++' for C++
 
     - name: Install OLA dependencies
       run: |
@@ -32,7 +32,7 @@ jobs:
     - name: Build C++ executable
       run: |
         cd ..
-        g++ -o main main.cpp
+        g++ -o main main.cpp $(pkg-config --cflags --libs libola)
 
     - name: Run C++ executable
       run: |

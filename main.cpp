@@ -6,7 +6,7 @@
 using std::cout;
 using std::endl;
 bool SendData(ola::client::OlaClientWrapper *wrapper) {
- static unsigned int universe = 1;
+ static unsigned int universe = 5;
  static unsigned int i = 0;
  ola::DmxBuffer buffer;
  buffer.Blackout();
@@ -18,7 +18,7 @@ bool SendData(ola::client::OlaClientWrapper *wrapper) {
  return true;
 }
 int main(int, char *[]) {
- ola::InitLogging(ola::OLA_LOG_WARN, ola::OLA_LOG_STDERR);
+ ola::InitLogging(ola::OLA_LOG_DEBUG, ola::OLA_LOG_STDERR);
  ola::client::OlaClientWrapper wrapper;
  if (!wrapper.Setup()) {
  std::cerr << "Setup failed" << endl;

@@ -1,0 +1,39 @@
+name: C++ Build with Dependencies
+
+on:
+  push:
+    branches:
+      - master  # Replace with your main branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up C++ environment
+      uses: actions/setup-cxx@v2
+      with:
+        compiler: 'gcc'  # or 'g++' for C++
+
+    - name: Install OLA dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y <your-dependencies-list>
+
+    - name: Build and Install OLA
+      run: |
+        cd ola
+        make
+        sudo make install
+
+    - name: Build C++ executable
+      run: |
+        cd ..
+        g++ -o main main.cpp
+
+    - name: Run C++ executable
+      run: |
+        ./main

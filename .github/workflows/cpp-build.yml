@@ -18,9 +18,30 @@ jobs:
       with:
         node-version: '14'  # You can adjust the Node.js version
 
-    - name: Install ola
+    - name: Install ola + dependencies
       run: |
         sudo apt-get update
+        sudo apt-get install \
+            autoconf \
+            automake \
+            bison \
+            flex \
+            g++ \
+            libavahi-client-dev \
+            libcppunit-dev \
+            libftdi-dev \
+            liblo-dev \
+            libmicrohttpd-dev \
+            libncurses-dev \
+            libprotobuf-dev \
+            libprotoc-dev \
+            libtool \
+            libusb-1.0.0-dev \
+            make \
+            protobuf-compiler \
+            pkg-config \
+            uuid-dev \
+            zlib1g-dev
         cd ola
         autoreconf -i
         ./configure --enable-rdm-tests
